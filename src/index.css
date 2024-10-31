@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+.background{
+    background-image: url('https://i.pinimg.com/564x/40/12/cd/4012cdc2cf44b21bfcb51ccf5c09c42e.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
